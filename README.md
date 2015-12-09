@@ -28,7 +28,7 @@ All variables should be declared before used and should be declared with “var�
     var foo = ‘Hello World!’;
 
 **Reason:** When you fail in the declaration with var sentence, this variable gets placed in the global context (window). Remember, we want to avoid polluting the global namespace.
- 
+ ---
 Declare only one variable per line and should be listed alphabetical order if possible.
 
 **Example:**

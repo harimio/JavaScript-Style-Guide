@@ -47,11 +47,3 @@ All variables should be declared with the convention lowerCamelCase.
 
 **Reason:** This is helpful when others read the code.
 
----
-**Convention:** All variables should be declared with the convention lowerCamelCase.
-
-**Example:**
-
-    var someVariable = ‘Hello World!’;
-
-**Reason:** This is helpful when others read the code.

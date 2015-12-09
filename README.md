@@ -32,9 +32,26 @@ All variables should be declared before used and should be declared with “var�
 Declare only one variable per line and should be listed alphabetical order if possible.
 
 **Example:**
-
-    var foo = ‘Hello World!’;
+    
     var bar = ‘Hasta la vista baby!’;
+    var foo = ‘Hello World!’;
 
 **Reason:** This is helpful when others read the code.
 
+---
+All variables should be declared with the convention lowerCamelCase.
+
+**Example:**
+
+    var someVariable = ‘Hello World!’;
+
+**Reason:** This is helpful when others read the code.
+
+---
+**Convention:** All variables should be declared with the convention lowerCamelCase.
+
+**Example:**
+
+    var someVariable = ‘Hello World!’;
+
+**Reason:** This is helpful when others read the code.

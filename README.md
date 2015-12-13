@@ -32,15 +32,18 @@ Conventions and rules for use in JavaScript programming.
 
     var foo = ‘Hello World!’;
 
-- *Reason:* When you fail in the declaration with var sentence, this variable gets placed in the global context (window). Remember, we want to avoid polluting the global namespace.
+  Reason: When you fail in the declaration with var sentence, this variable gets placed in the global context (window). Remember, we want to avoid polluting the global namespace.
 
- ---
+
+----------
+
+
 - Declare only one variable per line and should be listed alphabetical order if possible.
     
     var bar = ‘Hasta la vista baby!’;
     var foo = ‘Hello World!’;
 
-- *Reason:* This is helpful when others read the code.
+  **Reason:** This is helpful when others read the code.
 
 ---
 - All variables should be declared with the convention lowerCamelCase.

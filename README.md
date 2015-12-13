@@ -18,13 +18,13 @@ Conventions and rules for use in JavaScript programming.
 [Harimio]: <https://github.com/harimio>
 
 ## Indentation.
-The unit of indentation is fours spaces.
+- The unit of indentation is fours spaces.
 
 ## Line Length.
 
-Avoid lines longer than 80 characters. When a statement will not fit on a single line, it should be break it after an dot (.) or a comma (,) in these cases the next line should be indented with 8 spaces.
+- Avoid lines longer than 80 characters. When a statement will not fit on a single line, it should be break it after an dot (.) or a comma (,) in these cases the next line should be indented with 8 spaces.
 
-**Reason:** This generate more clean and readable code.
+- *Reason:* This generate more clean and readable code.
 
 ## Variables.
 
@@ -32,7 +32,7 @@ Avoid lines longer than 80 characters. When a statement will not fit on a single
 
     var foo = ‘Hello World!’;
 
-**Reason:** When you fail in the declaration with var sentence, this variable gets placed in the global context (window). Remember, we want to avoid polluting the global namespace.
+- *Reason:* When you fail in the declaration with var sentence, this variable gets placed in the global context (window). Remember, we want to avoid polluting the global namespace.
 
  ---
 - Declare only one variable per line and should be listed alphabetical order if possible.
@@ -40,12 +40,12 @@ Avoid lines longer than 80 characters. When a statement will not fit on a single
     var bar = ‘Hasta la vista baby!’;
     var foo = ‘Hello World!’;
 
-**Reason:** This is helpful when others read the code.
+- *Reason:* This is helpful when others read the code.
 
 ---
 - All variables should be declared with the convention lowerCamelCase.
 
     var someVariable = ‘Hello World!’;
 
-**Reason:** This is helpful when others read the code.
+- *Reason:* This is helpful when others read the code.
 

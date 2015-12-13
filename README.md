@@ -28,14 +28,14 @@ Avoid lines longer than 80 characters. When a statement will not fit on a single
 
 ## Variables.
 
-3.1 All variables should be declared before used and should be declared with “var” sentence.
+- All variables should be declared before used and should be declared with “var” sentence.
 
     var foo = ‘Hello World!’;
 
 **Reason:** When you fail in the declaration with var sentence, this variable gets placed in the global context (window). Remember, we want to avoid polluting the global namespace.
 
  ---
-3.2 Declare only one variable per line and should be listed alphabetical order if possible.
+- Declare only one variable per line and should be listed alphabetical order if possible.
     
     var bar = ‘Hasta la vista baby!’;
     var foo = ‘Hello World!’;
@@ -43,7 +43,7 @@ Avoid lines longer than 80 characters. When a statement will not fit on a single
 **Reason:** This is helpful when others read the code.
 
 ---
-3.3 All variables should be declared with the convention lowerCamelCase.
+- All variables should be declared with the convention lowerCamelCase.
 
     var someVariable = ‘Hello World!’;
 

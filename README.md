@@ -40,8 +40,8 @@ Conventions and rules for use in JavaScript programming.
 
 - Declare only one variable per line and should be listed alphabetical order if possible.
  ```
- var foo = 'Hello World!'; 
- var bar = 'Hasta la vista Baby!'
+ var bar = 'Hello World!'; 
+ var foo = 'Hasta la vista Baby!';
  ```
 
   **Reason:** This is helpful when others read the code.
@@ -49,8 +49,8 @@ Conventions and rules for use in JavaScript programming.
 - All variables should be declared with the convention lowerCamelCase.
 
  ```
+ var otherVariable = 'Namaste';
  var someVariable = 'A content here'; 
- var otherVariableName = 'Namaste;'
  ```
 
   **Reason:** This is helpful when others read the code.

@@ -22,11 +22,11 @@ Conventions and rules for use in JavaScript programming.
 
 ## Statement Rules.
 
-- Avoid lines longer than 80 characters. When a statement will not fit on a single line, it should be break it after an dot `.` or a comma `,` in these cases the next line should be indented with 8 spaces.
+- Avoid lines longer than 80 characters. When a statement will not fit on a single line, it should be break it after an dot `.` or a comma `,` in these cases the next line should be indented with 8 spaces
 
-- All sentences in JavaScript should be terminated with semicolon `;`.
+- All sentences in JavaScript should be terminated with semicolon `;`
 
-- All sentences: `if` / `else` / `for` / `while` / `try`  Should have braces `{ }` and always go on multiples lines.
+- All sentences: `if` / `else` / `for` / `while` / `try`  Should have braces `{ }` and always go on multiples lines
 
 ## Variables.
 

@@ -8,7 +8,7 @@ Conventions and rules for use in JavaScript programming.
   1. [Variables](#variables) 
 
 
-## Authors.
+## Authors
 
 ![José De Ita](https://avatars3.githubusercontent.com/u/12465470?v=3&s=30) [José De Ita]
 
@@ -20,7 +20,7 @@ Conventions and rules for use in JavaScript programming.
 ## Indentation.
 - The unit of indentation is fours spaces.
 
-## Statement Rules.
+## Statement Rules
 
 - Avoid lines longer than 80 characters. When a statement will not fit on a single line, it should be break it after an dot `.` or a comma `,` in these cases the next line should be indented with 8 spaces
 

@@ -53,5 +53,7 @@ Conventions and rules for use in JavaScript programming.
  var someVariable = 'A content here'; 
  ```
 
-  **Reason:** This is helpful when others read the code.
+  **Reason:** This is helpful when others read the code
+  
+  
 
